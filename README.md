@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src = "https://github.com/user-attachments/assets/e613bfe0-df81-4c96-8bb2-1302d0f8655c" width=600px height=1050px>
 <!--
 **Varshagp27/Varshagp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
