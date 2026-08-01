@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varsha</h1>
 
 <h3 align="center">
-Final-Year Computer Science Engineering Student | AI & ML Enthusiast | Software Developer
+Final-Year Computer Science Engineering Student | AI & ML Enthusiast
 </h3>
 
 <p align="center">
@@ -15,8 +15,6 @@ Final-Year Computer Science Engineering Student | AI & ML Enthusiast | Software 
 - 🎓 Final-Year B.Tech Computer Science Engineering Student
 - 💡 Passionate about Artificial Intelligence, Machine Learning and Software Development
 - 🚀 Interested in building impactful applications using AI and modern technologies
-- 🌱 Currently exploring Generative AI, RAG, LLMs and Deep Learning
-- 💻 Regularly solving Data Structures & Algorithms problems
 - 🤝 Open to internships and software development opportunities
 
 ---
@@ -36,8 +34,6 @@ Final-Year Computer Science Engineering Student | AI & ML Enthusiast | Software 
 **IoT:** Arduino UNO • ESP8266 (NodeMCU)
 
 **Core CS:** Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
-
-**Currently Learning:** Generative AI • RAG • LLMs • Deep Learning
 
 ---
 
@@ -73,16 +69,6 @@ Proud to contribute to collaborative and open-source projects.
 - 🤝 FOSS Open Source Contributor
 - 🔀 GitHub Collaborator
 - 💻 Experience working on collaborative development using Git & GitHub
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshagp27&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshagp27&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
